@@ -1,0 +1,9 @@
+c:\users\uzeyi\documents\visual studio 2012\Projects\dizi_degisken_0.1\dizi_degisken_0.1\bin\Debug\dizi_degisken_0.1.exe.config
+c:\users\uzeyi\documents\visual studio 2012\Projects\dizi_degisken_0.1\dizi_degisken_0.1\bin\Debug\dizi_degisken_0.1.exe
+c:\users\uzeyi\documents\visual studio 2012\Projects\dizi_degisken_0.1\dizi_degisken_0.1\bin\Debug\dizi_degisken_0.1.pdb
+c:\users\uzeyi\documents\visual studio 2012\Projects\dizi_degisken_0.1\dizi_degisken_0.1\obj\Debug\dizi_degisken_0.1.csprojResolveAssemblyReference.cache
+c:\users\uzeyi\documents\visual studio 2012\Projects\dizi_degisken_0.1\dizi_degisken_0.1\obj\Debug\dizi_degisken_0._1.Form1.resources
+c:\users\uzeyi\documents\visual studio 2012\Projects\dizi_degisken_0.1\dizi_degisken_0.1\obj\Debug\dizi_degisken_0._1.Properties.Resources.resources
+c:\users\uzeyi\documents\visual studio 2012\Projects\dizi_degisken_0.1\dizi_degisken_0.1\obj\Debug\dizi_degisken_0.1.csproj.GenerateResource.Cache
+c:\users\uzeyi\documents\visual studio 2012\Projects\dizi_degisken_0.1\dizi_degisken_0.1\obj\Debug\dizi_degisken_0.1.exe
+c:\users\uzeyi\documents\visual studio 2012\Projects\dizi_degisken_0.1\dizi_degisken_0.1\obj\Debug\dizi_degisken_0.1.pdb
